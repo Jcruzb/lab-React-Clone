@@ -7,6 +7,7 @@ import CustomizedSwitches from './Switch';
 
 
 function Navbar(props) {
+    // eslint-disable-next-line react/prop-types
     const {darkMode} = props
     
     return (
