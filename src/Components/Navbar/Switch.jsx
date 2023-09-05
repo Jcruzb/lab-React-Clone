@@ -61,7 +61,6 @@ export default function CustomizedSwitches() {
       <FormControlLabel
         control={<MaterialUISwitch sx={{ m: 1 }} defaultChecked />}
         darkMode = {darkMode}
-
       />
     </FormGroup>
   );
